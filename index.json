@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "rst.linker",
+  "versions": [
+    {
+      "commit": "c41cef52d5ac348a8108a33ad2abc8c890ff3b71",
+      "tag": "",
+      "parsed_at": "2026-10-20T10:21:31.110031+00:00"
+    }
+  ]
+}
