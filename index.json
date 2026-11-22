@@ -3,6 +3,11 @@
   "repo": "rst.linker",
   "versions": [
     {
+      "commit": "6faaaa3faed8a38bbcb3cb9ba5cfd2b3814c3a71",
+      "tag": "v2.6.0",
+      "parsed_at": "2026-11-22T01:06:44.724716+00:00"
+    },
+    {
       "commit": "c41cef52d5ac348a8108a33ad2abc8c890ff3b71",
       "tag": "",
       "parsed_at": "2026-10-20T10:21:31.110031+00:00"
